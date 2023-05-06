@@ -10,16 +10,16 @@
     "uno-generate": "unocss \"lib/**/*.{ts,tsx}\" \"app/**/*.{ts,tsx}\" -o assets/css/uno-generate.css"
   },
   "dependencies": {
-    "@types/node": "18.16.3",
-    "@types/react": "18.2.5",
-    "@types/react-dom": "18.2.3",
+    "@types/node": "18.16.5",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
     "next": "13.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.0.4",
-    "@unocss/cli": "0.51.8",
-    "@unocss/preset-icons": "0.51.8",
-    "@unocss/webpack": "0.51.8",
-      "unocss": "0.51.8"
+    "@unocss/cli": "0.51.12",
+    "@unocss/preset-icons": "0.51.12",
+    "@unocss/webpack": "0.51.12",
+      "unocss": "0.51.12"
   }
 }
